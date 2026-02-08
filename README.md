@@ -69,3 +69,4 @@ plt.title('Gradient Descent Loss Curve')
 
 plt.tight_layout()
 plt.show()
+ Ankitha Ammu, 700790562
